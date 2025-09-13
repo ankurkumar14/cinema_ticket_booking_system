@@ -1,0 +1,10 @@
+# Canonical messages you may decide to use in CLI (tests use services directly)
+OK = "OK"
+ERR_SHOW_NOT_FOUND = "ERROR: Show Not Found"
+ERR_BOOKING_NOT_FOUND = "ERROR: Booking Not Found"
+ERR_SHOW_ALREADY_STARTED = "ERROR: Show Already Started"
+ERR_CANNOT_END_BEFORE_START = "ERROR: Cannot End Before Start"
+ERR_SHOW_ALREADY_ENDED = "ERROR: Show Already Ended"
+ERR_BOOKING_UNAVAILABLE = "ERROR: Booking Unavailable"
+ERR_ALREADY_CANCELLED = "ERROR: Booking Already Cancelled"
+ERR_INVALID_INPUT = "ERROR: Invalid Input"
