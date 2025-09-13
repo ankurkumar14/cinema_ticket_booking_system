@@ -1,6 +1,6 @@
 Cinema Ticket System — In-Memory 
 
-Clean, modular, in-memory implementation of a cinema ticketing system designed for machine-coding rounds.
+Clean, modular, in-memory implementation of a cinema ticketing system.
 Includes per-show concurrency locks, a mini scheduler that auto-starts shows at start_time, a CLI, and a full pytest suite (including race tests).
 
 ✨ Features
